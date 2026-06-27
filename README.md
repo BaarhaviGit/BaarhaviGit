@@ -52,6 +52,6 @@
 ### 📊 GitHub Stats
 
 <p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=BaaruGit&show_icons=true&theme=radical" alt="Baarhavi's GitHub Stats" height="165"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=BaaruGit&layout=compact&theme=radical" alt="Top Languages" height="165"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=BaarhaviGit&show_icons=true&theme=radical" alt="Baarhavi's GitHub Stats" height="165"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=BaarhaviGit&layout=compact&theme=radical" alt="Top Languages" height="165"/>
 </p>
