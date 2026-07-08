@@ -54,12 +54,25 @@
 
 <br>
 
-## 🌟 Featured Project
+## 🌟 Featured Projects
 
 <div align="center">
 
-### 🌿 BookMark Zen
+### 🌊 FlowHub
+*A smart productivity hub for managing tasks and workflow — built full-stack for real-world use.*
 
+`Node.js` `Express` `MongoDB`
+
+---
+
+### 🧠 Smart Split AI
+*An AI-powered expense splitter that intelligently divides shared costs and simplifies group payments.*
+
+`AI/ML` `JavaScript` `Node.js`
+
+---
+
+### 🌿 BookMark Zen
 *Close the chaos. Reopen the calm.*
 
 A full-stack browser extension that saves your open tabs as named "Zen sessions" and restores them instantly — from any device. Built with a Chrome/Edge extension frontend, Express + MongoDB backend, and JWT-secured cloud sync.
@@ -87,7 +100,7 @@ A full-stack browser extension that saves your open tabs as named "Zen sessions"
 </div>
 
 <div align="center">
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=BaarhaviGit&theme=radical&hide_border=true" alt="GitHub Streak"/>
+<img src="https://streak-stats.demolab.com?user=BaarhaviGit&theme=radical&hide_border=true" alt="GitHub Streak"/>
 </div>
 
 <br>
