@@ -30,7 +30,7 @@
   <a href="https://www.instagram.com/__.baaruu._/?hl=en" target="_blank">
     <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"/>
   </a>
-  <a href="https://yourportfolio.link" target="_blank">
+  <a href="https://dev-render.vercel.app/" target="_blank">
     <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=appveyor&logoColor=white" alt="Portfolio"/>
   </a>
 </p>
@@ -93,11 +93,6 @@ A full-stack browser extension that saves your open tabs as named "Zen sessions"
 <br>
 
 ## 📊 GitHub Stats
-
-<div align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=BaarhaviGit&show_icons=true&theme=radical&hide_border=true" alt="Baarhavi's GitHub Stats" height="165"/>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=BaarhaviGit&layout=compact&theme=radical&hide_border=true" alt="Top Languages" height="165"/>
-</div>
 
 <div align="center">
 <img src="https://streak-stats.demolab.com?user=BaarhaviGit&theme=radical&hide_border=true" alt="GitHub Streak"/>
