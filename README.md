@@ -1,10 +1,9 @@
 <div align="center">
 
 # Hey, I'm Baarhavi 👋
-
 ### Full-Stack Web Developer crafting clean, functional web experiences
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&pause=1000&color=8A2BE2&center=true&vCenter=true&width=500&lines=Full-Stack+Web+Developer;Open+Source+Contributor;Building+BookMark+Zen+%F0%9F%8C%BF;Turning+Ideas+Into+Code" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&pause=1000&color=8A2BE2&center=true&vCenter=true&width=500&lines=Full-Stack+Web+Developer;Open+Source+Contributor;Turning+Ideas+Into+Code" alt="Typing SVG" />
 
 </div>
 
@@ -12,10 +11,8 @@
 
 ## 🚀 About Me
 
-- 🔭 Currently building **BookMark Zen** — a full-stack browser extension that saves tab sessions to the cloud
-- 🎯 Merged 2 pull requests via [First Contributions](https://github.com/firstcontributions/first-contributions)
 - 🌱 Diving deeper into full-stack architecture — REST APIs, auth systems, MongoDB
-- ⚡ Also working on the **Smart Tollgate Insurance System**
+- 🎯 Merged 2 pull requests via [First Contributions](https://github.com/firstcontributions/first-contributions)
 - 💬 Ask me about JavaScript, React, Node.js, or open source
 - 📫 Reach me on LinkedIn or Instagram below
 
@@ -60,23 +57,19 @@
 
 ### 🌊 FlowHub
 *A smart productivity hub for managing tasks and workflow — built full-stack for real-world use.*
-
 `Node.js` `Express` `MongoDB`
 
 ---
 
 ### 🧠 Smart Split AI
 *An AI-powered expense splitter that intelligently divides shared costs and simplifies group payments.*
-
 `AI/ML` `JavaScript` `Node.js`
 
 ---
 
 ### 🌿 BookMark Zen
 *Close the chaos. Reopen the calm.*
-
 A full-stack browser extension that saves your open tabs as named "Zen sessions" and restores them instantly — from any device. Built with a Chrome/Edge extension frontend, Express + MongoDB backend, and JWT-secured cloud sync.
-
 `Manifest V3` `Express.js` `MongoDB` `JWT Auth`
 
 </div>
@@ -86,9 +79,7 @@ A full-stack browser extension that saves your open tabs as named "Zen sessions"
 ## 🏆 Achievements & Open Source
 
 - 🎯 2 merged pull requests in [First Contributions](https://github.com/firstcontributions/first-contributions)
-- 🚧 Currently building the **Smart Tollgate Insurance System**
-- 🌿 Actively building **BookMark Zen**
-- 🌱 Active contributor to other open-source projects
+- 🌱 Active contributor to open-source projects
 
 <br>
 
