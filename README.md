@@ -10,7 +10,6 @@
 <br>
 
 ## 🚀 About Me
-
 - 🌱 Diving deeper into full-stack architecture — REST APIs, auth systems, MongoDB
 - 🎯 Merged 2 pull requests via [First Contributions](https://github.com/firstcontributions/first-contributions)
 - 💬 Ask me about JavaScript, React, Node.js, or open source
@@ -19,7 +18,6 @@
 <br>
 
 ## 🔗 Connect with Me
-
 <p align="left">
   <a href="https://www.linkedin.com/in/baarhavi-m-d-cse/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
@@ -35,7 +33,6 @@
 <br>
 
 ## 🛠️ Tech Stack
-
 <p align="left">
   <img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white"/>
   <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
@@ -67,17 +64,15 @@
 
 ---
 
-### 🌿 BookMark Zen
-*Close the chaos. Reopen the calm.*
-A full-stack browser extension that saves your open tabs as named "Zen sessions" and restores them instantly — from any device. Built with a Chrome/Edge extension frontend, Express + MongoDB backend, and JWT-secured cloud sync.
-`Manifest V3` `Express.js` `MongoDB` `JWT Auth`
+### 🤖 Anti-Yap
+*An AI-powered browser extension that summarizes webpages and YouTube content — cutting through the noise, fast.*
+`Chrome Extension APIs` `JavaScript` `AI APIs`
 
 </div>
 
 <br>
 
 ## 🏆 Achievements & Open Source
-
 - 🎯 2 merged pull requests in [First Contributions](https://github.com/firstcontributions/first-contributions)
 - 🌱 Active contributor to open-source projects
 
@@ -86,7 +81,12 @@ A full-stack browser extension that saves your open tabs as named "Zen sessions"
 ## 📊 GitHub Stats
 
 <div align="center">
-<img src="https://streak-stats.demolab.com?user=BaarhaviGit&theme=radical&hide_border=true" alt="GitHub Streak"/>
+  <img height="165" src="https://github-readme-stats.vercel.app/api?username=BaarhaviGit&show_icons=true&theme=radical&hide_border=true&count_private=true" alt="Baarhavi's GitHub Stats"/>
+  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=BaarhaviGit&layout=compact&theme=radical&hide_border=true" alt="Top Languages"/>
+</div>
+
+<div align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=BaarhaviGit&theme=radical&hide_border=true" alt="GitHub Streak"/>
 </div>
 
 <br>
