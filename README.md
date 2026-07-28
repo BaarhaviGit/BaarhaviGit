@@ -81,8 +81,8 @@
 ## 📊 GitHub Stats
 
 <div align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=BaarhaviGit&show_icons=true&theme=radical&hide_border=true" alt="Baarhavi's GitHub Stats"/>
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=BaarhaviGit&layout=compact&theme=radical&hide_border=true&langs_count=8" alt="Top Languages"/>
+  <img src="https://img.shields.io/github/followers/BaarhaviGit?style=for-the-badge&color=8A2BE2&logo=github&logoColor=white&label=Followers" alt="Followers"/>
+  <img src="https://img.shields.io/badge/dynamic/json?style=for-the-badge&color=8A2BE2&label=Public%20Repos&query=public_repos&url=https%3A%2F%2Fapi.github.com%2Fusers%2FBaarhaviGit&logo=github&logoColor=white" alt="Public Repos"/>
 </div>
 
 <div align="center">
