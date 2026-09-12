@@ -1,11 +1,16 @@
 <div align="center">
 
 # Hey, I'm Baarhavi 👋
-### Full-Stack Web Developer crafting clean, functional web experiences
+
+### 💻 Full-Stack Web Developer &nbsp;|&nbsp; 🎯 Clean Code Enthusiast &nbsp;|&nbsp; 🌐 Open Source Contributor
 
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&pause=1000&color=8A2BE2&center=true&vCenter=true&width=500&lines=Full-Stack+Web+Developer;Open+Source+Contributor;Turning+Ideas+Into+Code" alt="Typing SVG" />
 
 <img src="https://komarev.com/ghpvc/?username=BaarhaviGit&style=flat-square&color=8A2BE2" alt="Profile views"/>
+
+<br>
+
+![](https://img.shields.io/badge/-‍-8A2BE2?style=flat-square)
 
 </div>
 
@@ -27,9 +32,9 @@
   <a href="https://www.instagram.com/__.baaruu._/?hl=en" target="_blank">
     <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"/>
   </a>
-  <a href="https://dev-render.vercel.app/" target="_blank">
+<a href="https://shipit-dev.vercel.app/" target="_blank">
     <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=appveyor&logoColor=white" alt="Portfolio"/>
-  </a>
+</a>
 </p>
 
 <br>
@@ -62,17 +67,21 @@
 *A smart productivity hub for managing tasks and workflow — built full-stack for real-world use.*
 `Node.js` `Express` `MongoDB`
 
+[![Live Demo](https://img.shields.io/badge/Live%20Demo-8A2BE2?style=for-the-badge&logo=vercel&logoColor=white)](https://flow-hub-github.vercel.app/)
+
 ---
 
-### 🧠 Smart Split AI
-*An AI-powered expense splitter that intelligently divides shared costs and simplifies group payments.*
+### 🐞 DebugMate
+*An AI-assisted debugging companion that helps trace, explain, and fix errors faster.*
 `AI/ML` `JavaScript` `Node.js`
+
+[![Live Demo](https://img.shields.io/badge/Live%20Demo-8A2BE2?style=for-the-badge&logo=render&logoColor=white)](https://debug-mate.onrender.com/)
 
 ---
 
 ### 🤖 Anti-Yap
-*An AI-powered browser extension that summarizes webpages and YouTube content — cutting through the noise, fast.*
-`Chrome Extension APIs` `JavaScript` `AI APIs`
+*An AI-powered browser extension that lets you upload a file and get an instant summary — cutting through the noise, fast.*
+`Chrome Extension APIs` `File Upload` `AI APIs`
 
 </div>
 
