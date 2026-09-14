@@ -2,11 +2,11 @@
 
 <!-- ====================== GRADIENT HEADER ====================== -->
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:8b5cf6,50:6d28d9,100:6366f1&height=190&section=header&text=Baarhavi&fontSize=60&fontColor=ffffff&animation=fadeIn&desc=Full-Stack%20Developer%20%E2%80%A2%20Open%20Source%20Learner&descAlignY=62&descSize=20" width="100%" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:8b5cf6,35:6d28d9,65:3b82f6,100:06b6d4&height=190&section=header&text=Baarhavi&fontSize=60&fontColor=ffffff&animation=fadeIn&desc=Full-Stack%20Developer%20%E2%80%A2%20Open%20Source%20Learner&descAlignY=62&descSize=20" width="100%" />
 
 <!-- ====================== TYPING HERO ====================== -->
 
-<img src="https://readme-typing-svg.demolab.com?font=Poppins&size=28&pause=1000&color=8B5CF6&center=true&vCenter=true&width=650&lines=Hey%2C+I%27m+Baarhavi+%F0%9F%91%8B;Full-Stack+Developer+%F0%9F%9A%80;React+%E2%80%A2+Node+%E2%80%A2+AWS+%E2%80%A2+Firebase;I+build+things+for+the+web+%F0%9F%8C%90;Nice+to+meet+you+%F0%9F%91%8B" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Poppins&size=28&pause=1000&color=8B5CF6,EC4899,06B6D4,10B981,F59E0B&center=true&vCenter=true&width=700&lines=Hey%2C+I%27m+Baarhavi+%F0%9F%91%8B;Full-Stack+Developer+%F0%9F%9A%80;React+%E2%80%A2+Node+%E2%80%A2+AWS+%E2%80%A2+Firebase;I+build+things+for+the+web+%F0%9F%8C%90;Nice+to+meet+you+%F0%9F%91%8B" alt="Typing SVG" />
 
 <br/>
 
@@ -109,35 +109,15 @@ When I'm not coding, you'll probably find me exploring new tools, scrolling for 
 
 ## 🚀 Things I've built
 
-<p align="center">
-  <a href="https://github.com/BaarhaviGit/FlowHub">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=BaarhaviGit&repo=FlowHub&theme=github_dark&bg_color=0d1117&title_color=8b5cf6&icon_color=a78bfa&text_color=c9d1d9&border_color=2a2f3a" />
-  </a>
-  &emsp;
-  <a href="https://github.com/BaarhaviGit/Debug-Mate">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=BaarhaviGit&repo=Debug-Mate&theme=github_dark&bg_color=0d1117&title_color=8b5cf6&icon_color=a78bfa&text_color=c9d1d9&border_color=2a2f3a" />
-  </a>
-</p>
+<div align="center">
 
-<p align="center">
-  <a href="https://github.com/BaarhaviGit/Venom_Arena">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=BaarhaviGit&repo=Venom_Arena&theme=github_dark&bg_color=0d1117&title_color=8b5cf6&icon_color=a78bfa&text_color=c9d1d9&border_color=2a2f3a" />
-  </a>
-  &emsp;
-  <a href="https://github.com/BaarhaviGit/Device-IQ">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=BaarhaviGit&repo=Device-IQ&theme=github_dark&bg_color=0d1117&title_color=8b5cf6&icon_color=a78bfa&text_color=c9d1d9&border_color=2a2f3a" />
-  </a>
-</p>
+| | | |
+| :-: | :-: | :-: |
+| **🌊 [FlowHub](https://github.com/BaarhaviGit/FlowHub)**<br/><sub>*GitHub for automations* — publish & reuse n8n workflows like packages, discover & deploy powerful automations.</sub><br/>[![stars](https://img.shields.io/github/stars/BaarhaviGit/FlowHub?style=flat-square&label=stars&color=8B5CF6)](https://github.com/BaarhaviGit/FlowHub) [![n8n](https://img.shields.io/badge/n8n-marketplace-06B6D4?style=flat-square)](https://github.com/BaarhaviGit/FlowHub)<br/>[**View →**](https://github.com/BaarhaviGit/FlowHub) | **🐞 [Debug-Mate](https://github.com/BaarhaviGit/Debug-Mate)**<br/><sub>*AI code playground* — CodePen-style editor that catches runtime errors & uses Groq to explain the fix.</sub><br/>[![stars](https://img.shields.io/github/stars/BaarhaviGit/Debug-Mate?style=flat-square&label=stars&color=8B5CF6)](https://github.com/BaarhaviGit/Debug-Mate) [![AI](https://img.shields.io/badge/AI-Groq-10B981?style=flat-square)](https://github.com/BaarhaviGit/Debug-Mate)<br/>[**View →**](https://github.com/BaarhaviGit/Debug-Mate) | **🐍 [Venom Arena](https://github.com/BaarhaviGit/Venom_Arena)**<br/><sub>*Real-time multiplayer Snake* — built on Node, Socket.io, Redis & scaled with Docker + K8s.</sub><br/>[![stars](https://img.shields.io/github/stars/BaarhaviGit/Venom_Arena?style=flat-square&label=stars&color=8B5CF6)](https://github.com/BaarhaviGit/Venom_Arena) [![realtime](https://img.shields.io/badge/Socket.io-realtime-ED4245?style=flat-square)](https://github.com/BaarhaviGit/Venom_Arena)<br/>[**View →**](https://github.com/BaarhaviGit/Venom_Arena) |
+| **🖥️ [Device-IQ](https://github.com/BaarhaviGit/Device-IQ)**<br/><sub>*Diagnostics dashboard* — real-time hardware & browser data (CPU, RAM, battery, sensors) plus a hidden Snake game.</sub><br/>[![stars](https://img.shields.io/github/stars/BaarhaviGit/Device-IQ?style=flat-square&label=stars&color=8B5CF6)](https://github.com/BaarhaviGit/Device-IQ) [![vanilla](https://img.shields.io/badge/vanilla-zero%20deps-8B5CF6?style=flat-square)](https://github.com/BaarhaviGit/Device-IQ)<br/>[**View →**](https://github.com/BaarhaviGit/Device-IQ) | **💸 [SmartSplit-AI](https://github.com/BaarhaviGit/SmartSplit-AI)**<br/><sub>*Smart expense splitting* — secure payments, fair debt calculation & real-time settlement tracking with friends.</sub><br/>[![stars](https://img.shields.io/github/stars/BaarhaviGit/SmartSplit-AI?style=flat-square&label=stars&color=8B5CF6)](https://github.com/BaarhaviGit/SmartSplit-AI) [![split](https://img.shields.io/badge/group-expenses-10B981?style=flat-square)](https://github.com/BaarhaviGit/SmartSplit-AI)<br/>[**View →**](https://github.com/BaarhaviGit/SmartSplit-AI) | **⚡ [GitPilot](https://github.com/BaarhaviGit/GitPilot)**<br/><sub>*AI git assistant* — auto-stages changes, writes the commit message, and pushes for you.</sub><br/>[![stars](https://img.shields.io/github/stars/BaarhaviGit/GitPilot?style=flat-square&label=stars&color=8B5CF6)](https://github.com/BaarhaviGit/GitPilot) [![AI](https://img.shields.io/badge/AI-git%20assistant-3B82F6?style=flat-square)](https://github.com/BaarhaviGit/GitPilot)<br/>[**View →**](https://github.com/BaarhaviGit/GitPilot) |
+| **🧪 [ForgeLab](https://github.com/BaarhaviGit/ForgeLab)**<br/><sub>*Engineering playground* — architect systems, simulate real-world failures & experiment with fixes.</sub><br/>[![stars](https://img.shields.io/github/stars/BaarhaviGit/ForgeLab?style=flat-square&label=stars&color=8B5CF6)](https://github.com/BaarhaviGit/ForgeLab) [![sim](https://img.shields.io/badge/resilience-simulator-6366F1?style=flat-square)](https://github.com/BaarhaviGit/ForgeLab)<br/>[**View →**](https://github.com/BaarhaviGit/ForgeLab) | **🔖 [Anti-Yap](https://github.com/BaarhaviGit/Anti-Yap)**<br/><sub>*Browser extension* — saves open tabs as named sessions & restores them instantly, from any device.</sub><br/>[![stars](https://img.shields.io/github/stars/BaarhaviGit/Anti-Yap?style=flat-square&label=stars&color=8B5CF6)](https://github.com/BaarhaviGit/Anti-Yap) [![ext](https://img.shields.io/badge/browser-extension-EC4899?style=flat-square)](https://github.com/BaarhaviGit/Anti-Yap)<br/>[**View →**](https://github.com/BaarhaviGit/Anti-Yap) | **✨ & more**<br/><sub>More experiments, docs & contributions waiting in [my profile](https://github.com/BaarhaviGit?tab=repositories).</sub><br/>![repos](https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fapi.github.com%2Fusers%2FBaarhaviGit&query=public_repos&logo=github&logoColor=white&label=public%20repos&color=6D28D9&style=flat-square)<br/>[**All repos →**](https://github.com/BaarhaviGit?tab=repositories) |
 
-<p align="center">
-  <a href="https://github.com/BaarhaviGit/SmartSplit-AI">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=BaarhaviGit&repo=SmartSplit-AI&theme=github_dark&bg_color=0d1117&title_color=8b5cf6&icon_color=a78bfa&text_color=c9d1d9&border_color=2a2f3a" />
-  </a>
-  &emsp;
-  <a href="https://github.com/BaarhaviGit/GitPilot">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=BaarhaviGit&repo=GitPilot&theme=github_dark&bg_color=0d1117&title_color=8b5cf6&icon_color=a78bfa&text_color=c9d1d9&border_color=2a2f3a" />
-  </a>
-</p>
+</div>
 
 <br/>
 
@@ -170,6 +150,6 @@ When I'm not coding, you'll probably find me exploring new tools, scrolling for 
 
 **Thanks for stopping by — feel free to say hi! 👋**
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:6366f1,100:8b5cf6&height=120&section=footer&fontSize=0" width="100%" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:06b6d4,50:3b82f6,100:8b5cf6&height=120&section=footer&fontSize=0" width="100%" />
 
 </div>
