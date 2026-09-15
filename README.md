@@ -131,12 +131,19 @@ When I'm not coding, you'll probably find me exploring new tools, scrolling for 
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=BaarhaviGit&show_icons=true&count_private=true&include_all_commits=true&rank_icon=github&theme=github_dark&bg_color=0d1117&title_color=8b5cf6&icon_color=a78bfa&text_color=c9d1d9&border_color=2a2f3a" height="180" />
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=BaarhaviGit&background=0d1117&border=2a2f3a&fire=8b5cf6&ring=8b5cf6&currStreakNum=c9d1d9&sideNums=a78bfa&currStreakLabel=8b5cf6&sideLabels=c9d1d9&dates=6e7681" height="180" />
 
 <br/><br/>
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=BaarhaviGit&layout=compact&langs_count=8&theme=github_dark&bg_color=0d1117&title_color=8b5cf6&text_color=c9d1d9&border_color=2a2f3a" width="80%" />
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=BaarhaviGit&theme=github_dark" width="100%" />
+
+<br/><br/>
+
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=BaarhaviGit&theme=github_dark" width="100%" />
+
+<br/><br/>
+
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=BaarhaviGit&theme=github_dark" width="100%" />
 
 <br/><br/>
 
