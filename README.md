@@ -4,6 +4,10 @@
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:8b5cf6,35:6d28d9,65:3b82f6,100:06b6d4&height=190&section=header&text=Baarhavi&fontSize=60&fontColor=ffffff&animation=fadeIn&desc=Full-Stack%20Developer%20%E2%80%A2%20Open%20Source%20Learner&descAlignY=62&descSize=20" width="100%" />
 
+<!-- ====================== CUSTOM ANIMATED HERO ====================== -->
+
+<img src="hero.svg" alt="Animated hero" width="100%" />
+
 <!-- ====================== TYPING HERO ====================== -->
 
 <img src="https://readme-typing-svg.demolab.com?font=Poppins&size=28&pause=1000&color=8B5CF6,EC4899,06B6D4,10B981,F59E0B&center=true&vCenter=true&width=700&lines=Hey%2C+I%27m+Baarhavi+%F0%9F%91%8B;Full-Stack+Developer+%F0%9F%9A%80;React+%E2%80%A2+Node+%E2%80%A2+AWS+%E2%80%A2+Firebase;I+build+things+for+the+web+%F0%9F%8C%90;Nice+to+meet+you+%F0%9F%91%8B" alt="Typing SVG" />
