@@ -2,10 +2,9 @@
 
 I build **practical web apps and AI-powered developer tools** and share what I learn in public. I'm the creator of **Debug-Mate**, an AI code playground that catches runtime errors and explains fixes with Groq, and **FlowHub**, the GitHub for n8n automations.
 
-[![stars](https://img.shields.io/github/stars/BaarhaviGit/FlowHub?style=flat-square&r=2026)](https://github.com/BaarhaviGit/FlowHub)
-[![forks](https://img.shields.io/github/forks/BaarhaviGit/FlowHub?style=flat-square&r=2026)](https://github.com/BaarhaviGit/FlowHub)
-[![contributors](https://img.shields.io/github/contributors/BaarhaviGit/FlowHub?style=flat-square&r=2026)](https://github.com/BaarhaviGit/FlowHub)
-[![followers](https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fapi.github.com%2Fusers%2FBaarhaviGit&query=followers&logo=github&logoColor=white&label=GitHub%20followers&color=blue&style=flat-square&r=2026)](https://github.com/BaarhaviGit)
+[![public repos](https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fapi.github.com%2Fusers%2FBaarhaviGit&query=public_repos&logo=github&logoColor=white&label=public%20repos&color=blue&style=flat-square&r=2026)](https://github.com/BaarhaviGit?tab=repositories)
+[![total stars](https://img.shields.io/badge/%E2%AD%90%20total%20stars-33-8B5CF6?style=flat-square&r=2026)](https://github.com/BaarhaviGit?tab=repositories)
+[![followers](https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fapi.github.com%2Fusers%2FBaarhaviGit&query=followers&logo=github&logoColor=white&label=followers&color=blue&style=flat-square&r=2026)](https://github.com/BaarhaviGit)
 [![profile views](https://komarev.com/ghpvc/?username=BaarhaviGit&style=flat-square&r=2026&color=blueviolet)](https://github.com/BaarhaviGit)
 
 ---
